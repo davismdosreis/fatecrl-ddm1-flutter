@@ -59,3 +59,6 @@ Thumbs.db
 
 # Symbols / build artifacts
 app.*.symbols
+
+# Enunciados dos exercicios
+DDM1 - Aula* - Exe*.txt
