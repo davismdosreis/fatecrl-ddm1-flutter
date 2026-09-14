@@ -1,0 +1,64 @@
+# Dart / Flutter
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub/
+**/.pub-cache/
+**/build/
+
+# IDEs
+**/.idea/
+**/.vscode/
+**/*.iml
+
+# Logs and temporary files
+*.log
+*.swp
+.history/
+
+# Coverage
+**/coverage/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Android generated files
+**/.gradle/
+**/android/local.properties
+**/android/captures/
+**/android/key.properties
+**/*.jks
+
+# iOS / macOS generated files
+**/ios/Pods/
+**/macos/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/ios/**/xcuserdata/
+**/macos/**/xcuserdata/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+
+# Windows generated files
+**/windows/flutter/ephemeral/
+**/windows/flutter/generated_plugin_registrant.cc
+**/windows/flutter/generated_plugin_registrant.h
+**/windows/flutter/generated_plugins.cmake
+
+# Linux generated files
+**/linux/flutter/ephemeral/
+**/linux/flutter/generated_plugin_registrant.cc
+**/linux/flutter/generated_plugin_registrant.h
+**/linux/flutter/generated_plugins.cmake
+
+# Generated Flutter files
+**/generated_plugin_registrant.dart
+
+# Symbols / build artifacts
+app.*.symbols
+
+# Enunciados dos exercicios
+DDM1 - Aula* - Exe*.txt
